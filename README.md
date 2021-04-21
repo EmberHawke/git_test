@@ -1,0 +1,1 @@
+This is Ember's first git project!
